@@ -33,7 +33,7 @@ A modern, feature-rich code sharing and collaboration platform built with React 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/wizardhere/code-share-hub.git
+git clone https://github.com/wizardsarehere/Code-Share-Hub.git
 ```
 
 2. Install dependencies:
